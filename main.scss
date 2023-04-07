@@ -1,0 +1,24 @@
+$primary-color:rgb(230, 0, 255)
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.navbar {
+    overflow: hidden;
+    background-color:$primary-color;
+    position: relative;
+  
+  }
+  #face{
+    width:100%;
+   padding:120px;
+   /* max-width: 1200px;  */
+   /* margin: auto; */
+   background:#2b2236;
+   overflow: auto;
+  
+   }
+
+  
